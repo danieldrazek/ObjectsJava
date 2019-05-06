@@ -1,14 +1,17 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package birds;
 
-/**
- *
- * @author danie
- */
 public class Eagle {
     
+    //Propertis
+    private int big;   
+ 
+    //Methods / konstructors
+    public int getSize(){
+        return big;      
+    }
+    
+    public void setSize(int size){
+        this.big = size;
+    }
 }

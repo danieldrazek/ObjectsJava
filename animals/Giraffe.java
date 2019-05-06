@@ -1,14 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package animals;
 
-/**
- *
- * @author danie
- */
 public class Giraffe {
     
+    //Propertis
+    private double tall;   
+ 
+    //Methods / konstructors
+    public double getHeight(){
+        return tall;      
+    }
+    
+    public void setHeight(double height){
+        this.tall = height;
+    }
 }
+
