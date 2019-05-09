@@ -3,10 +3,8 @@ package animals;
 
 public class Tiger {
     
-    //Propertis
-    private boolean isWild;         //true or false  
+    private boolean isWild;         
  
-    //Methods / konstructors
     public boolean isWild(){      
         return isWild;      
     }
