@@ -1,4 +1,6 @@
-
+/*
+ * Utwórz 2 różne pakiety. W pakietach utwórz klasy odpowiadające kilku rodzajom zwierząt wraz z kilkoma atrybutami.
+*/
 package birds;
 
 public class Eagle {
